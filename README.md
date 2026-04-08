@@ -1,1 +1,1 @@
-# ILITY-AIRDROP-NEW
+#Initialize repository with ITILITY project research structure
